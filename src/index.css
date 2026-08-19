@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Archivo+Black&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-behavior: smooth;
+}
+
+.font-display {
+  font-family: "Archivo Black", ui-sans-serif, system-ui, sans-serif;
+}
+
+.font-sans {
+  font-family: "Inter", ui-sans-serif, system-ui, sans-serif;
+}
+
+/* Subtle dot-grid background used on the page wrapper */
+.bg-dots {
+  background-color: #ffffff;
+  background-image: radial-gradient(circle, #d4d4d8 1.4px, transparent 1.4px);
+  background-size: 26px 26px;
+}
