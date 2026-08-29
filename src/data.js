@@ -5,11 +5,6 @@ import {
   BrainCircuit,
 } from "lucide-react";
 
-// ------------------------------------------------------------------
-// EDIT ME: all site content lives in this one file. Components import
-// from here, so you never need to touch component code just to
-// update text, links, or data.
-// ------------------------------------------------------------------
 
 export const NAME = "Rafikul Mondal";
 export const FIRST_NAME = "RAFIKUL";
@@ -22,11 +17,11 @@ export const TAGLINE_CHIPS = [
   { label: "DSA Enthusiast", icon: BrainCircuit, color: "rose" },
 ];
 
-// TODO: replace with your own story
+
 export const ABOUT_TEXT =
   "I'm a full-stack developer who likes turning ideas into fast, reliable products. I build interfaces with React and Next.js, wire up back ends with Firebase and MongoDB, and keep my problem-solving sharp with C++ and DSA on the side. I care about clean code, small details, and shipping things people actually use.";
 
-// Short highlight line shown in the accent box next to the About text.
+
 export const ABOUT_HIGHLIGHT =
   "Focused on shipping full-stack products with React on the front end and a solid grip on data structures underneath.";
 
@@ -83,7 +78,7 @@ export const EDUCATION = [
   },
 ];
 
-// Phone is a placeholder — swap in your real number whenever you're ready.
+
 export const CONTACT = {
   email: "rafikmandal2006@gmail.com",
   phone: "+91 91126 10345",
