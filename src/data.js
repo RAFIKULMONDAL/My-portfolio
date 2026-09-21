@@ -41,6 +41,13 @@ export const SKILLS = [
 
 export const PROJECTS = [
   {
+    name: "GoalPedia",
+    tag: "Productivity",
+    description:
+      "A goal-tracking app for setting targets, breaking them into steps, and following progress over time.",
+    link: "https://goalpedia-mu.vercel.app/",
+  },
+   {
     name: "Skyfast",
     tag: "Weather app",
     description:
@@ -53,13 +60,6 @@ export const PROJECTS = [
     description:
       "Live cryptocurrency price tracker with charts and watchlists for keeping an eye on the market.",
     link: "https://crypto-tracker-eight-gold.vercel.app/",
-  },
-  {
-    name: "GoalPedia",
-    tag: "Productivity",
-    description:
-      "A goal-tracking app for setting targets, breaking them into steps, and following progress over time.",
-    link: "https://goalpedia-mu.vercel.app/",
   },
 ];
 
