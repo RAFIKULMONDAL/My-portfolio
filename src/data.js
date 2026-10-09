@@ -36,18 +36,25 @@ export const SKILLS = [
   "C++",
   "SQL",
   "GitHub",
-  
+
 ];
 
 export const PROJECTS = [
   {
+    name: "Jobprep-AI",
+    tag: "Productivity",
+    description:
+      "An AI-powered career assistant that analyzes resumes, evaluates ATS compatibility, generates personalized interview questions, and helps job seekers prepare for their dream roles.",
+    link: "jobprep-ai-three.vercel.app/",
+  },
+  {
     name: "GoalPedia",
     tag: "Productivity",
     description:
-      "A goal-tracking app for setting targets, breaking them into steps, and following progress over time.",
+      "An  football hub for discovering player stats, exploring clubs, tracking match data, viewing leaderboards, and staying updated with the latest football news.",
     link: "https://goalpedia-mu.vercel.app/",
   },
-   {
+  {
     name: "Skyfast",
     tag: "Weather app",
     description:
