@@ -45,7 +45,7 @@ export const PROJECTS = [
     tag: "Productivity",
     description:
       "An AI-powered career assistant that analyzes resumes, evaluates ATS compatibility, generates personalized interview questions, and helps job seekers prepare for their dream roles.",
-    link: "jobprep-ai-three.vercel.app/",
+    link: "https://jobprep-ai-three.vercel.app",
   },
   {
     name: "GoalPedia",
