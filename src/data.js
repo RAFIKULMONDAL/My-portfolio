@@ -54,6 +54,13 @@ export const PROJECTS = [
       "An  football hub for discovering player stats, exploring clubs, tracking match data, viewing leaderboards, and staying updated with the latest football news.",
     link: "https://goalpedia-mu.vercel.app/",
   },
+   {
+    name: "Taskflow",
+    tag: "Internship project",
+    description:
+      "A task management app for organizing and tracking personal and professional tasks.building and deploying TaskFlow using React, Node.js, Express.js, MongoDB Atlas, JWT authentication, and REST APIs.",
+    link: "https://swynex-frontend-integration.vercel.app",
+  },
   {
     name: "Skyfast",
     tag: "Weather app",
